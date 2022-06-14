@@ -1,0 +1,27 @@
+table,
+th,
+td {
+  border: 2px solid rgb(0, 0, 0);
+}
+
+body {
+  background-color: #2155cd;
+}
+img {
+  border-radius: 50%;
+}
+p {
+  background-color: #0aa1dd;
+}
+table {
+  background-color: #0aa1dd;
+}
+h3 {
+  background-color: #0aa1dd;
+}
+td {
+  background-color: #79dae8;
+}
+.no-dec {
+  text-decoration: none;
+}
